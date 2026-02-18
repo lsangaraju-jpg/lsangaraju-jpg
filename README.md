@@ -7,6 +7,7 @@
   📫 Reach me at:
   <a href="mailto:lsangaraju@gmail.com"><strong>Lsangaraju@gmail.com</strong></a>
 </p>
+
 <br>
 
 <table align="right">
@@ -85,6 +86,7 @@
   </a>
 </p>
 
+<br><br>
 <p align="center">
   <marquee direction="right" scrollamount="4">
     🌱 I’m currently learning <b>Advanced AWS, Kubernetes, Distributed Systems and few more...</b>
