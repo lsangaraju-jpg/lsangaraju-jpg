@@ -7,7 +7,6 @@
   📫 Reach me at:
   <a href="mailto:lsangaraju@gmail.com"><strong>Lsangaraju@gmail.com</strong></a>
 </p>
-
 <br>
 
 <table align="right">
