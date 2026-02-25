@@ -1,6 +1,6 @@
 [![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://github.com/lvsangaraju)
 
-<h1 align="center">Hi 👋, I'm Lokesh Varma Sangaraju</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Varma S</h1>
 <h3 align="center">A Passionate Software Engineer from Central Michigan University</h3>
 
 <p align="center">
