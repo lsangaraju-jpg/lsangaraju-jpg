@@ -64,7 +64,7 @@
 ### 🧠 Core Technical Strengths
 - Backend & Microservices Architecture  
 - Distributed Systems & Event-Driven Design  
-- Cloud-Native Development (AWS, Kubernetes)  
+- Cloud-Native Development (AWS, Azure, GCP)  
 - API Security (OAuth2, JWT, Spring Security)  
 - CI/CD Automation & Infrastructure as Code  
 - Performance Optimization & Caching  
